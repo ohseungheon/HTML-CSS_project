@@ -1,4 +1,5 @@
 # 별점평가 프로그램
+![image](https://github.com/ohseungheon/TIL/assets/132635759/3a110819-cac7-4695-a0aa-abe37515a579)
 ```html
 
 <!DOCTYPE html>
